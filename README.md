@@ -1,8 +1,6 @@
 # Entrega Práctica Integradora clase 24
 
-Para correr el proyecto es necesario crear el archivo `.env` y setear las credenciales de Mongo Atlas `DB_USER` y `DB_PASSWORD`.
-Además se deben setear las variables de entorno `GITHUB_CLIENT_ID` y `GITHUB_CLIENT_SECRET` con las credenciales de la app de Github.
-También setear `PRIVATE_KEY` con `"1234"`.
+Para correr el proyecto es necesario crear el archivo `.env` y setear las credenciales de Mongo Atlas `DB_USER` y `DB_PASSWORD`. También setear `PRIVATE_KEY` con `"1234"`.
 
 ## Comandos
 
