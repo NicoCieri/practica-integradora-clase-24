@@ -18,6 +18,10 @@ También setear `PRIVATE_KEY` con `"1234"`.
 
 ## Endpoints
 
+## Sessions
+
+- `GET /api/sessions/current`: Retorna el usuario logueado.
+
 ### Users
 
 - `POST /api/users/register`: Crea un usuario nuevo.
