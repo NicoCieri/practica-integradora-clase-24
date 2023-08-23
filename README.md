@@ -18,7 +18,7 @@ También setear `PRIVATE_KEY` con `"1234"`.
 
 ## Endpoints
 
-## Sessions
+### Sessions
 
 - `GET /api/sessions/current`: Retorna el usuario logueado.
 
